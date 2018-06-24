@@ -1,0 +1,25 @@
+.logo-img {
+  width: 80px;
+}
+
+.small-image {
+  width:250px;
+  height:250px;
+}
+.center-image {
+  width: 100%;
+}
+.small-images .top-row{
+  margin-top: 60px !important;
+}
+
+.line {
+  width:100%;
+
+ margin-top: 0.5em;
+ margin-bottom: 0.5em;
+ margin-left: auto;
+ margin-right: auto;
+ border-style: inset;
+ border-width: 1px;
+}
